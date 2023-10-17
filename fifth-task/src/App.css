@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-color: rgb(241, 248, 254);
+  padding-top: 100px;
+}
+
+button{
+  background-color: rgb(8, 123, 255);
+  height: 40px;
+  width: 8%;
+  padding: 6px;
+  margin-top: 15px;
+  border-radius: 6px;
+  border: none;
+  color: white;
+}
+
+input{
+  width:20%;
+  height: 25px;
+  border-radius: 5px;
+  border: solid 1px rgba(128, 128, 128, 0.426);
+  padding: 5px;
+}
